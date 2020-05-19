@@ -88,7 +88,6 @@
                     <hr>
                     <img src="images/musee6.jpg" alt="" class="img"><img src="images/musee7.jpg" alt="" class="img"  >
                     <img src="images/musee8.jpg" alt="" class="imgg" >
-                    <img src="images/musee2.jpg" alt="" class="imgg" >
             </section>
 
     </main>
